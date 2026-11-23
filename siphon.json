@@ -1,19 +1,19 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nixrajput/siphon/releases/download/v1.0.1/siphon_1.0.1_windows_amd64.zip",
+            "url": "https://github.com/nixrajput/siphon/releases/download/v1.0.3/siphon_1.0.3_windows_amd64.zip",
             "bin": [
                 "siphon.exe"
             ],
-            "hash": "4c28ae06de6f0e2d93888140c6fd649ef9d1e27be56c3773a2d60ced859d045e"
+            "hash": "85dcf19b3324744a3fd93dff99a75cd9fa6400aac5a7623cdb4e5b52fba705d7"
         },
         "arm64": {
-            "url": "https://github.com/nixrajput/siphon/releases/download/v1.0.1/siphon_1.0.1_windows_arm64.zip",
+            "url": "https://github.com/nixrajput/siphon/releases/download/v1.0.3/siphon_1.0.3_windows_arm64.zip",
             "bin": [
                 "siphon.exe"
             ],
-            "hash": "b5e05651d449dd1aa6ca123623a7c7e2eb4deb0ccb9165971900354109f7ce2c"
+            "hash": "4c829f8977a8324435cf16eeb24aea634dcf8000e6ef4d2b182ba918046d6874"
         }
     },
     "homepage": "https://github.com/nixrajput/siphon",
